@@ -7,7 +7,13 @@
 <body>
 
 欢迎来到我的首页！
-<a href="{% url 'blog:post' %}">aaa</a>
+<ul>
+    {% for post in post_list %}
+        <li><a href="{% url 'blog:post' post.id %}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<a href="{% url 'blog:new_post' %}">写博客</a>
 
 </body>
 </html>

@@ -18,6 +18,8 @@ from django.conf.urls import url
 from blog import views
 
 urlpatterns = [
-    url(r'^post', views.post, name="post"),
+    url(r'^post/(\d+)', views.post, name="post"),
     url(r'^index', views.index, name="index"),
+    url(r'^new_post', views.new_post, name="new_post"),
+    url(r'^save_post', views.save_post, name="save_post"),
 ]
