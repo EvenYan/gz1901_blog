@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d3e3e28-03c3-47bc-8c52-f79c00c5bf86" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/autumn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/borland.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/bw.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/colorful.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/emacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/friendly.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/fruity.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/github.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/manni.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/monokai.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/murphy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/native.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/pastie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/perldoc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/tango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/trac.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/vim.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/vs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/highlights/zenburn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pace.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/modernizr.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/pace.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/demo/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/demo/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gz1901_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gz1901_blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gz1901_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gz1901_blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gz1901_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gz1901_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,11 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="246">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#645#677#0" expanded="true" />
               </folding>
@@ -102,14 +59,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="114">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="django_session" pinned="false" current-in-tab="false">
+        <entry file="das://c1256bf6-6c8a-44fe-b36a-356a3f1f7bad/schema/gz1901_blog/table/django_session">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -179,8 +145,8 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/demo/login.html" />
         <option value="$PROJECT_DIR$/templates/homepage.html" />
-        <option value="$PROJECT_DIR$/demo/views.py" />
         <option value="$PROJECT_DIR$/demo/urls.py" />
+        <option value="$PROJECT_DIR$/demo/views.py" />
       </list>
     </option>
   </component>
@@ -327,14 +293,14 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4078144" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12423738" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32844934" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12423738" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" weight="0.3294509" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.32844934" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -575,12 +541,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/views.py">
+    <entry file="file://$PROJECT_DIR$/demo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="246">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#645#677#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -592,12 +558,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/urls.py">
+    <entry file="das://c1256bf6-6c8a-44fe-b36a-356a3f1f7bad/schema/gz1901_blog/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="114">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
-            <element signature="e#645#677#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
